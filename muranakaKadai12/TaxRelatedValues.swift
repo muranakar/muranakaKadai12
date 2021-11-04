@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct TaxRelatedValus {
+struct TaxRelatedValues {
     var priceExcludingTax: Int
     var consumptionTaxRate: Int
     var priceIncludingTax: Int {
